@@ -1,0 +1,10 @@
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\bin\Debug\resimEslestirmeOyunu.exe.config
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\bin\Debug\resimEslestirmeOyunu.exe
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\bin\Debug\resimEslestirmeOyunu.pdb
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.csproj.AssemblyReference.cache
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.Form1.resources
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.Properties.Resources.resources
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.csproj.GenerateResource.cache
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.exe
+C:\Users\umita\OneDrive\Masaüstü\resimEslestirmeOyunu\obj\Debug\resimEslestirmeOyunu.pdb
